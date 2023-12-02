@@ -49,7 +49,8 @@ class tempConverter{
               "3. Fahrenheit-Celcius\n4. Fahrenheit-Kelvin\n"+
               "5. Kelvin-Celcius\n6. Kelvin-Fahrenheit\n7. Exit");
     do{
-      System.out.println("\nEnter Choice:"); //from 1-7 then write the temp & press enter you will get converted temp
+      System.out.println("\nEnter Choice:"); 
+      //from 1-7 then write the temp & press enter you will get converted temp
       /* ex: Enter choice: 1 (i.e- celcius to fahrenheit)
       Enter Celcius value: 45 (press enter you will get fahrenheit temp)
       Fahrenheit value: 113.00 (and so on)
